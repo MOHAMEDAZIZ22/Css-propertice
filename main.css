@@ -1,0 +1,39 @@
+* {
+    background-color: rgba(100, 150, 200, 0.2);
+}
+
+
+/* |CSS FONT| */
+
+p.a {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: unicase;
+}
+
+/* |CSS TEXT| */
+
+p.b {
+    font-size: larger;
+    text-align: center;
+    line-height: 100px;
+    text-shadow: 3px 1px ;
+    letter-spacing: 8px;
+    word-spacing: 15px;
+
+}
+
+/* |CSS COLORS| */
+
+p.c {
+    font-size: xx-large;
+    border: 2px solid orangered;
+    background-color: rgba(7, 107, 146, 0.605);
+    color: rgb(255, 255, 0);
+}
+
+h1 {
+    background-color: #ff0000;
+}
